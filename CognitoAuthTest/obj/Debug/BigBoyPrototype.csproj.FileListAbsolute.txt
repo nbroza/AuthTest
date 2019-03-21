@@ -1,0 +1,53 @@
+C:\Users\NickPC\AppData\Local\Temporary Projects\BigBoyPrototype\bin\Debug\BigBoyPrototype.exe.config
+C:\Users\NickPC\AppData\Local\Temporary Projects\BigBoyPrototype\bin\Debug\BigBoyPrototype.exe
+C:\Users\NickPC\AppData\Local\Temporary Projects\BigBoyPrototype\bin\Debug\BigBoyPrototype.pdb
+C:\Users\NickPC\AppData\Local\Temporary Projects\BigBoyPrototype\obj\Debug\BigBoyPrototype.csprojAssemblyReference.cache
+C:\Users\NickPC\AppData\Local\Temporary Projects\BigBoyPrototype\obj\Debug\BigBoyPrototype.Form1.resources
+C:\Users\NickPC\AppData\Local\Temporary Projects\BigBoyPrototype\obj\Debug\BigBoyPrototype.Properties.Resources.resources
+C:\Users\NickPC\AppData\Local\Temporary Projects\BigBoyPrototype\obj\Debug\BigBoyPrototype.csproj.GenerateResource.cache
+C:\Users\NickPC\AppData\Local\Temporary Projects\BigBoyPrototype\obj\Debug\BigBoyPrototype.csproj.CoreCompileInputs.cache
+C:\Users\NickPC\AppData\Local\Temporary Projects\BigBoyPrototype\obj\Debug\BigBoyPrototype.exe
+C:\Users\NickPC\AppData\Local\Temporary Projects\BigBoyPrototype\obj\Debug\BigBoyPrototype.pdb
+C:\Users\NickPC\AppData\Local\Temporary Projects\BigBoyPrototype\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\NickPC\AppData\Local\Temporary Projects\BigBoyPrototype\obj\Debug\BigBoyPrototype.csproj.CopyComplete
+D:\AxionAC\BigBoyPrototype\BigBoyPrototype\bin\Debug\BigBoyPrototype.exe.config
+D:\AxionAC\BigBoyPrototype\BigBoyPrototype\bin\Debug\BigBoyPrototype.exe
+D:\AxionAC\BigBoyPrototype\BigBoyPrototype\bin\Debug\BigBoyPrototype.pdb
+D:\AxionAC\BigBoyPrototype\BigBoyPrototype\obj\Debug\BigBoyPrototype.csprojAssemblyReference.cache
+D:\AxionAC\BigBoyPrototype\BigBoyPrototype\obj\Debug\BigBoyPrototype.Properties.Resources.resources
+D:\AxionAC\BigBoyPrototype\BigBoyPrototype\obj\Debug\BigBoyPrototype.csproj.GenerateResource.cache
+D:\AxionAC\BigBoyPrototype\BigBoyPrototype\obj\Debug\BigBoyPrototype.csproj.CoreCompileInputs.cache
+D:\AxionAC\BigBoyPrototype\BigBoyPrototype\obj\Debug\BigBoyPrototype.csproj.CopyComplete
+D:\AxionAC\BigBoyPrototype\BigBoyPrototype\obj\Debug\BigBoyPrototype.exe
+D:\AxionAC\BigBoyPrototype\BigBoyPrototype\obj\Debug\BigBoyPrototype.pdb
+D:\AxionAC\BigBoyPrototype\BigBoyPrototype\obj\Debug\BigBoyPrototype.Home.resources
+D:\AxionAC\BigBoyPrototype\BigBoyPrototype\obj\Debug\BigBoyPrototype.LogIn.resources
+D:\AxionAC\BigBoyPrototype\BigBoyPrototype\bin\Debug\AWSSDK.CognitoIdentity.dll
+D:\AxionAC\BigBoyPrototype\BigBoyPrototype\bin\Debug\AWSSDK.CognitoIdentityProvider.dll
+D:\AxionAC\BigBoyPrototype\BigBoyPrototype\bin\Debug\AWSSDK.CognitoSync.dll
+D:\AxionAC\BigBoyPrototype\BigBoyPrototype\bin\Debug\AWSSDK.Core.dll
+D:\AxionAC\BigBoyPrototype\BigBoyPrototype\bin\Debug\AWSSDK.Extensions.CognitoAuthentication.dll
+D:\AxionAC\BigBoyPrototype\BigBoyPrototype\bin\Debug\AWSSDK.SecurityToken.dll
+D:\AxionAC\BigBoyPrototype\BigBoyPrototype\bin\Debug\EntityFramework.dll
+D:\AxionAC\BigBoyPrototype\BigBoyPrototype\bin\Debug\EntityFramework.SqlServer.dll
+D:\AxionAC\BigBoyPrototype\BigBoyPrototype\bin\Debug\System.Data.SQLite.dll
+D:\AxionAC\BigBoyPrototype\BigBoyPrototype\bin\Debug\System.Data.SQLite.EF6.dll
+D:\AxionAC\BigBoyPrototype\BigBoyPrototype\bin\Debug\System.Data.SQLite.Linq.dll
+D:\AxionAC\BigBoyPrototype\BigBoyPrototype\bin\Debug\AWSSDK.CognitoIdentity.pdb
+D:\AxionAC\BigBoyPrototype\BigBoyPrototype\bin\Debug\AWSSDK.CognitoIdentity.xml
+D:\AxionAC\BigBoyPrototype\BigBoyPrototype\bin\Debug\AWSSDK.CognitoIdentityProvider.pdb
+D:\AxionAC\BigBoyPrototype\BigBoyPrototype\bin\Debug\AWSSDK.CognitoIdentityProvider.xml
+D:\AxionAC\BigBoyPrototype\BigBoyPrototype\bin\Debug\AWSSDK.CognitoSync.pdb
+D:\AxionAC\BigBoyPrototype\BigBoyPrototype\bin\Debug\AWSSDK.CognitoSync.xml
+D:\AxionAC\BigBoyPrototype\BigBoyPrototype\bin\Debug\AWSSDK.Core.pdb
+D:\AxionAC\BigBoyPrototype\BigBoyPrototype\bin\Debug\AWSSDK.Core.xml
+D:\AxionAC\BigBoyPrototype\BigBoyPrototype\bin\Debug\AWSSDK.Extensions.CognitoAuthentication.pdb
+D:\AxionAC\BigBoyPrototype\BigBoyPrototype\bin\Debug\AWSSDK.SecurityToken.pdb
+D:\AxionAC\BigBoyPrototype\BigBoyPrototype\bin\Debug\AWSSDK.SecurityToken.xml
+D:\AxionAC\BigBoyPrototype\BigBoyPrototype\bin\Debug\EntityFramework.xml
+D:\AxionAC\BigBoyPrototype\BigBoyPrototype\bin\Debug\EntityFramework.SqlServer.xml
+D:\AxionAC\BigBoyPrototype\BigBoyPrototype\bin\Debug\System.Data.SQLite.xml
+D:\AxionAC\BigBoyPrototype\BigBoyPrototype\bin\Debug\System.Data.SQLite.dll.config
+D:\AxionAC\BigBoyPrototype\BigBoyPrototype\obj\Debug\BigBoyPrototype.SignUp.resources
+D:\AxionAC\BigBoyPrototype\BigBoyPrototype\obj\Debug\BigBoyPrototype.Controls.VerificationCode.resources
+D:\AxionAC\BigBoyPrototype\BigBoyPrototype\bin\Debug\Bunifu_UI_v1.5.3.dll
